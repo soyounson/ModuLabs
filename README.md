@@ -12,7 +12,7 @@
   - [활동페이지](https://www.notion.so/modulabs/Cocre-070d26a1ddef469ea197bd81e81ed2d3)
 
 
-- [ ] [📝Papershop] 쓸 (SSL) 
+- [ ] [📝Papershop#] 쓸 (SSL) 
   - 기간 2022-05-31 ~              
   - [활동페이지](https://www.notion.so/moducommunity/SSL-a619a4341b9742db82e1e6d50dfab99f)
 
