@@ -15,10 +15,6 @@
 - [ ] [📝Papershop#] 쓸 (SSL) 
   - 기간 2022-05-31 ~              
   - [활동페이지](https://www.notion.so/moducommunity/SSL-a619a4341b9742db82e1e6d50dfab99f)
-
-- [ ] [🌱풀잎스쿨] SQL과 사랑에 빠지다
-  - 기수 20기              
-  - [활동페이지]()
   
 - [ ] [🌱풀잎스쿨] Mathematics for Machine Learning
   - 기수 19기              
