@@ -16,9 +16,11 @@
   - 기간 2022-05-31 ~              
   - [활동페이지](https://www.notion.so/moducommunity/SSL-a619a4341b9742db82e1e6d50dfab99f)
   
-- [ ] [🌱풀잎스쿨] Mathematics for Machine Learning
+- [x] [🌱풀잎스쿨] Mathematics for Machine Learning
   - 기수 19기              
   - [활동페이지](https://www.notion.so/modulabs/Mathematics-for-Machine-Learning-b2ac7f7f75d64c3aba73c5bae6c67565)
+<img src="/images/modulabs_Math_ML.png" width="400">
+
 
 - [x] [🌱풀잎스쿨] NLP w/DL : 캐글 첫 도전하기
   - 기수 19기                 
