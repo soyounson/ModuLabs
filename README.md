@@ -6,11 +6,19 @@
 
 ----------------------------------------------
 
+- [ ] [🌱풀잎스쿨] Mathematics for Machine Learning, Season 2
+  - 기수 21기 (2022-07)            
+  - 퍼실이 🙋🏻‍♀️
+  - [활동페이지]
+
+- [ ] [🙌🏻Lab 2] HIT(Human In The loop)랩, Season 2
+  - 기간 2021-07 ~                  
+  - [github page](https://github.com/HITLAB-DeepIGeoS/DeepIGeoS)
+
 - [ ] 코크리 <img src="/images/B-icon-ver.png" width="20">
   - 기수 2기
   - 기간 2022-06-02 ~             
   - [활동페이지](https://www.notion.so/modulabs/Cocre-070d26a1ddef469ea197bd81e81ed2d3)
-
 
 - [ ] [📝Papershop#] 쓸 (SSL) 
   - 기간 2022-05-31 ~              
@@ -20,7 +28,6 @@
   - 기수 19기              
   - [활동페이지](https://www.notion.so/modulabs/Mathematics-for-Machine-Learning-b2ac7f7f75d64c3aba73c5bae6c67565)
 <img src="/images/modulabs_Math_ML.png" width="400">
-
 
 - [x] [🌱풀잎스쿨] NLP w/DL : 캐글 첫 도전하기
   - 기수 19기                 
