@@ -14,7 +14,6 @@
 - [ ] [🌱풀잎스쿨] [슬로우페이퍼 15기] Diffusion 모델부터 DALL-E 2까지!
   - 기수 21기 (2022-07)   
   - [활동페이지]
-  <img src="/images/modulabs_NLP_w_DL.png" width="400">
 
 - [ ] [🙌🏻Lab 2] HIT(Human In The loop)랩, Season 2
   - 기간 2021-07 ~                  
